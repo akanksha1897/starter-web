@@ -1,4 +1,5 @@
 # Starter Web Project
+This is a simple webste project for showing how to use Git and Github together.
 
 ## Introduction
 
